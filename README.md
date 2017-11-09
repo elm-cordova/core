@@ -1,2 +1,3 @@
-# core
-Support for Cordova compatible runtime environments.
+# Cordova core
+
+> Support for Cordova's runtime environment.
